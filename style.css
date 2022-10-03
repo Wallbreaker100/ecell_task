@@ -529,16 +529,16 @@ ul p{
 .epro1{
   border-radius: 5px;
   height:4px;
-  width:8%;
+  width:40%;
   background-color: #8fdad0;
-  animation: sarthak 1s ease-in;
+  animation: sarthak 1.5s ease-in;
 }
 @keyframes sarthak{
   from{
     width:0%;
   }
   to{
-    width: 8%;
+    width: 40%;
   }
 }
 .mpro{
@@ -549,16 +549,16 @@ ul p{
 .mpro1{
   border-radius: 5px;
   height:4px;
-  width:19%;
+  width:60%;
   background-color: #ffc54d;
-  animation: sarthak1 1s ease-in;
+  animation: sarthak1 1.5s ease-in;
 }
 @keyframes sarthak1{
   from{
     width:0%;
   }
   to{
-    width: 19%;
+    width: 60%;
   }
 }
 .hpro{
@@ -570,16 +570,16 @@ ul p{
 .hpro1{
   border-radius: 5px;
   height:4px;
-  width:25%;
+  width:90%;
   background-color: #f06864;
-  animation: sarthak2 1s ease-in;
+  animation: sarthak2 1.5s ease-in;
 }
 @keyframes sarthak2{
   from{
     width:0%;
   }
   to{
-    width: 25%;
+    width: 90%;
   }
 }
 /* ----------------------side grid lower implementation---------------------------- */
